@@ -8,7 +8,7 @@ body {
 }
 
 .hero {
-    background-image: linear-gradient( rgba(0, 0, 0, 0.8), rgba(131, 75, 75, 0.8)), url(../images/pexels-alex-green-5699726.jpg);
+    background-image: linear-gradient( rgba(0, 0, 0, 0.8), rgba(131, 75, 75, 0.8)), url(../images/dreadlockretouch.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
