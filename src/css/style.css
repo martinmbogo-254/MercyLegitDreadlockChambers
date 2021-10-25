@@ -1,5 +1,6 @@
 html {
     scroll-behavior: smooth;
+    transition-delay: 2s;
 }
 
 body {
@@ -66,8 +67,8 @@ p {
 }
 
 .logo {
-    height: 100px;
-    width: 100px;
+    height: 75px;
+    width: 75px;
     margin-top: 5%;
     border-radius: 50%;
 }
