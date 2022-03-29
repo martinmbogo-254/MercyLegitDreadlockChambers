@@ -1,6 +1,6 @@
 html {
     scroll-behavior: smooth;
-    transition-delay: 2s;
+    transition-delay: 10s;
 }
 
 body {
@@ -93,7 +93,7 @@ p {
 }
 
 .quote {
-    height: 200px;
+    min-height: 250px;
     background-color: bisque;
 }
 
