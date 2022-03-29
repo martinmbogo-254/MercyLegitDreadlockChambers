@@ -179,7 +179,7 @@ p {
     color: black;
 }
 
-@media screen and (min-width: 480px) {
+@media screen and (max-width: 600px) {
     .content {
         margin-top: 15%;
     }
@@ -187,6 +187,14 @@ p {
         right: 40px;
     }
   }
+@media screen and (min-width: 768px){
+    .content{
+        margin-top: 25%;
+    }
+    #topbtn{
+        right: 100px;
+    }
+}
 #topbtn{
     outline: none;
     border: none;
