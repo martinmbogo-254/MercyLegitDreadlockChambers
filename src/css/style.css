@@ -183,6 +183,9 @@ p {
     .content {
         margin-top: 15%;
     }
+    #topbtn{
+        right: 40px;
+    }
   }
 #topbtn{
     outline: none;
